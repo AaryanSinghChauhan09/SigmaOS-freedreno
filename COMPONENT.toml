@@ -3,7 +3,7 @@ name = "SigmaOS-freedreno"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "freedreno component"
+description = "Freedreno"
 upstream = []
 
 [contract]
